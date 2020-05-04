@@ -26,7 +26,7 @@ Compiling the Code
 ------------------
 1. For Linux/MacOS users, `cd` into `/whatTimeIsIt` and execute the following command:
 ```
-./gradlew assembleRelease
+./gradlew assemble
 ```
 
 Don't forget the `./` at the beginning!!!
@@ -34,9 +34,9 @@ Don't forget the `./` at the beginning!!!
 
 2. For Windows users, `cd` into `\whatTmeIsIt` and execute the following command:
 ```
-gradlew assembleRelease
+gradlew assemble
 ```
 
 Finished Product
 ----------------
-After it has finished compiling, the APK file will be located in `~/whatimeIsIt/app/build/outputs/apk/release`
+After it has finished compiling, the APK file will be located in `~/whatimeIsIt/app/build/outputs/apk/`. You have the option to choose between a debug version of the application, or an unsigned release version of the application.
