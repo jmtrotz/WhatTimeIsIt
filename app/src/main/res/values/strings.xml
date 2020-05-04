@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">What Time Is It?</string>
+    <string name="my_time_label">The current time in your city is:</string>
+    <string name="honolulu_time_label">The current time in Honolulu, Hawaii is:</string>
+    <string name="los_angeles_time_label">The current time in Los Angeles, California is:</string>
+    <string name="santiago_time_label">The current time in Santiago, Chile is:</string>
+    <string name="london_time_label">The current time in London, England is:</string>
+    <string name="cairo_time_label">The current time in Cairo, Egypt is:</string>
+    <string name="moscow_time_label">The current time in Moscow, Russia is:</string>
+    <string name="hong_kong_time_label">The current time in Hong Kong, China is:</string>
+    <string name="tokyo_time_label">The current time in Tokyo, Japan is:</string>
+    <string name="sydney_time_label">The current time in Sydney, Australia is:</string>
+    <string name="honolulu_time_zone">Pacific/Honolulu</string>
+    <string name="los_angeles_time_zone">America/Los_Angeles</string>
+    <string name="santiago_time_zone">America/Santiago</string>
+    <string name="london_time_zone">Europe/London</string>
+    <string name="cairo_time_zone">Africa/Cairo</string>
+    <string name="moscow_time_zone">Europe/Moscow</string>
+    <string name="hong_kong_time_zone">Asia/Hong_Kong"</string>
+    <string name="tokyo_time_zone">"Asia/Tokyo</string>
+    <string name="sydney_time_zone">Australia/Sydney</string>
+</resources>
