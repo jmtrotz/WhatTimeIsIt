@@ -12,8 +12,6 @@ Prereqisites
 ------------
 1. A Git client
 
-2. The latest Android Studio (optional)
-
 
 Downloading the Source Code
 ---------------------------
